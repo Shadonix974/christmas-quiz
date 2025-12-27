@@ -1,0 +1,153 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ============ ENUMS ============
+
+enum SessionStatus {
+  WAITING     // En attente de joueurs
+  PLAYING     // Partie en cours
+  QUESTION    // Question affichée
+  REVEAL      // Révélation réponse
+  LEADERBOARD // Affichage classement
+  FINISHED    // Partie terminée
+}
+
+enum GameMode {
+  QUIZ      // Quiz uniquement
+  BLINDTEST // Blind test uniquement
+  MIXED     // Alternance des deux
+}
+
+enum QuestionType {
+  QUIZ      // Question à choix multiples
+  BLINDTEST // Reconnaissance audio
+}
+
+// ============ MODELS ============
+
+model Session {
+  id              String        @id @default(cuid())
+  code            String        @unique // Code 6 caractères (ex: NOEL24)
+  hostId          String        // ID unique de l'hôte
+  status          SessionStatus @default(WAITING)
+  gameMode        GameMode      @default(MIXED)
+
+  currentQuestion Int           @default(0) // Index question actuelle
+  totalQuestions  Int           @default(10) // Nombre total de questions
+  timePerQuestion Int           @default(20) // Secondes par question
+
+  // Mode automatique
+  autoMode            Boolean   @default(false)  // Mode auto activé
+  showLeaderboard     Boolean   @default(true)   // Afficher classement entre questions
+  revealDuration      Int       @default(3)      // Secondes pour afficher la réponse
+  leaderboardDuration Int       @default(5)      // Secondes pour afficher le classement
+
+  createdAt       DateTime      @default(now())
+  updatedAt       DateTime      @updatedAt
+  expiresAt       DateTime      // Session expire après 4h
+
+  players         Player[]
+  questions       Question[]
+
+  @@index([code])
+  @@index([status])
+}
+
+model Player {
+  id          String   @id @default(cuid())
+  sessionId   String
+  session     Session  @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+
+  nickname    String
+  avatarColor String   // Couleur avatar générée
+  score       Int      @default(0)
+  isHost      Boolean  @default(false)
+  isConnected Boolean  @default(true)
+
+  createdAt   DateTime @default(now())
+
+  answers     Answer[]
+
+  @@unique([sessionId, nickname]) // Pas de doublon de pseudo par session
+  @@index([sessionId])
+}
+
+model Question {
+  id        String       @id @default(cuid())
+  sessionId String
+  session   Session      @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+
+  type      QuestionType
+  order     Int          // Ordre dans la partie
+
+  // Pour QUIZ
+  text         String?  // Texte de la question
+  options      String[] // Options de réponse
+  correctIndex Int?     // Index de la bonne réponse (0-3)
+
+  // Pour BLINDTEST (YouTube)
+  youtubeVideoId String? // ID de la vidéo YouTube
+  audioStartTime Int?    // Temps de début en secondes
+  audioEndTime   Int?    // Temps de fin en secondes
+  songTitle      String? // Titre de la chanson
+  songArtist     String? // Artiste
+
+  timeLimit Int @default(20) // Temps pour cette question
+  points    Int @default(1000) // Points max
+
+  answers Answer[]
+
+  @@index([sessionId, order])
+}
+
+model Answer {
+  id           String   @id @default(cuid())
+  playerId     String
+  player       Player   @relation(fields: [playerId], references: [id], onDelete: Cascade)
+  questionId   String
+  question     Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+
+  answer        String  // Réponse donnée (index pour quiz, texte pour blindtest)
+  isCorrect     Boolean
+  responseTime  Int     // Temps de réponse en millisecondes
+  pointsAwarded Int     @default(0)
+
+  createdAt DateTime @default(now())
+
+  @@unique([playerId, questionId]) // Une réponse par joueur par question
+  @@index([questionId])
+}
+
+// Banque de questions réutilisables
+model QuestionBank {
+  id        String       @id @default(cuid())
+  type      QuestionType // QUIZ ou BLINDTEST
+
+  // Pour QUIZ et BLINDTEST
+  text         String   // Texte de la question
+  options      String[] // Options de réponse
+  correctIndex Int      // Index de la bonne réponse (0-3)
+  category     String?  // Catégorie optionnelle
+
+  // Pour BLINDTEST uniquement
+  youtubeVideoId String?
+  audioStartTime Int?
+  audioEndTime   Int?
+  songTitle      String?
+  songArtist     String?
+
+  isActive  Boolean  @default(true) // Pour désactiver sans supprimer
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([type, isActive])
+}

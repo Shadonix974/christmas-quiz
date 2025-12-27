@@ -1,0 +1,52 @@
+[
+  {
+    "text": "Quel est le titre de cette chanson ?",
+    "options": ["All I Want For Christmas Is You", "Last Christmas", "Jingle Bells", "Santa Claus Is Coming To Town"],
+    "correctIndex": 0,
+    "youtubeVideoId": "yXQViqx6GMY",
+    "audioStartTime": 60,
+    "audioEndTime": 90,
+    "songTitle": "All I Want For Christmas Is You",
+    "songArtist": "Mariah Carey"
+  },
+  {
+    "text": "Qui chante cette chanson ?",
+    "options": ["Queen", "The Beatles", "Daft Punk", "Michael Jackson"],
+    "correctIndex": 2,
+    "youtubeVideoId": "5NV6Rdv1a3I",
+    "audioStartTime": 30,
+    "audioEndTime": 60,
+    "songTitle": "Get Lucky",
+    "songArtist": "Daft Punk"
+  },
+  {
+    "text": "Quel est le titre de cette chanson ?",
+    "options": ["Billie Jean", "Thriller", "Beat It", "Bad"],
+    "correctIndex": 1,
+    "youtubeVideoId": "sOnqjkJTMaA",
+    "audioStartTime": 0,
+    "audioEndTime": 30,
+    "songTitle": "Thriller",
+    "songArtist": "Michael Jackson"
+  },
+  {
+    "text": "Qui chante cette chanson ?",
+    "options": ["Adele", "Ed Sheeran", "Sam Smith", "Lewis Capaldi"],
+    "correctIndex": 1,
+    "youtubeVideoId": "lp-EO5I60KA",
+    "audioStartTime": 45,
+    "audioEndTime": 75,
+    "songTitle": "Shape of You",
+    "songArtist": "Ed Sheeran"
+  },
+  {
+    "text": "Quel est le titre de cette chanson ?",
+    "options": ["Bohemian Rhapsody", "We Will Rock You", "We Are The Champions", "Somebody To Love"],
+    "correctIndex": 0,
+    "youtubeVideoId": "fJ9rUzIMcZQ",
+    "audioStartTime": 120,
+    "audioEndTime": 150,
+    "songTitle": "Bohemian Rhapsody",
+    "songArtist": "Queen"
+  }
+]

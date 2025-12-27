@@ -1,0 +1,1464 @@
+[
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Mariah Carey",
+      "Dean Martin",
+      "Nat King Cole",
+      "Bing Crosby"
+    ],
+    "correctIndex": 0,
+    "youtubeVideoId": "aAkMkVFwAoo",
+    "audioStartTime": 45,
+    "audioEndTime": 60,
+    "songTitle": "All I Want For Christmas Is You",
+    "songArtist": "Mariah Carey",
+    "category": "Noël"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Michael Bublé",
+      "Wham!",
+      "Bing Crosby",
+      "Céline Dion"
+    ],
+    "correctIndex": 1,
+    "youtubeVideoId": "E8gmARGvPlI",
+    "audioStartTime": 40,
+    "audioEndTime": 55,
+    "songTitle": "Last Christmas",
+    "songArtist": "Wham!",
+    "category": "Noël"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Bing Crosby",
+      "Wham!",
+      "Bobby Helms",
+      "Frank Sinatra"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "ZnDmmiiFSUU",
+    "audioStartTime": 15,
+    "audioEndTime": 30,
+    "songTitle": "Jingle Bell Rock",
+    "songArtist": "Bobby Helms",
+    "category": "Noël"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Bobby Helms",
+      "Mariah Carey",
+      "Tino Rossi",
+      "Brenda Lee"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "WQushjP2Wqk",
+    "audioStartTime": 20,
+    "audioEndTime": 35,
+    "songTitle": "Petit Papa Noël",
+    "songArtist": "Tino Rossi",
+    "category": "Noël"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Nat King Cole",
+      "Céline Dion",
+      "Wham!",
+      "Michael Bublé"
+    ],
+    "correctIndex": 3,
+    "youtubeVideoId": "R8CBoVc_OMI",
+    "audioStartTime": 30,
+    "audioEndTime": 45,
+    "songTitle": "Santa Claus Is Coming To Town",
+    "songArtist": "Michael Bublé",
+    "category": "Noël"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Michael Bublé",
+      "Brenda Lee",
+      "Frank Sinatra",
+      "Céline Dion"
+    ],
+    "correctIndex": 1,
+    "youtubeVideoId": "TFsZy9t-qDc",
+    "audioStartTime": 15,
+    "audioEndTime": 30,
+    "songTitle": "Rockin' Around the Christmas Tree",
+    "songArtist": "Brenda Lee",
+    "category": "Noël"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Brenda Lee",
+      "Bing Crosby",
+      "Michael Bublé",
+      "Nat King Cole"
+    ],
+    "correctIndex": 1,
+    "youtubeVideoId": "v5ryZdpEHqM",
+    "audioStartTime": 30,
+    "audioEndTime": 45,
+    "songTitle": "White Christmas",
+    "songArtist": "Bing Crosby",
+    "category": "Noël"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Céline Dion",
+      "Brenda Lee",
+      "Dalida",
+      "John Lennon"
+    ],
+    "correctIndex": 3,
+    "youtubeVideoId": "yN4Uu0OlmTg",
+    "audioStartTime": 50,
+    "audioEndTime": 65,
+    "songTitle": "Happy Xmas (War Is Over)",
+    "songArtist": "John Lennon",
+    "category": "Noël"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Nat King Cole",
+      "Wham!",
+      "Dean Martin",
+      "Tino Rossi"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "Rnil5LyK_B0",
+    "audioStartTime": 20,
+    "audioEndTime": 35,
+    "songTitle": "Let It Snow",
+    "songArtist": "Dean Martin",
+    "category": "Noël"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Bing Crosby",
+      "Michael Bublé",
+      "Dalida",
+      "Mariah Carey"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "J8k3Onc2v_8",
+    "audioStartTime": 20,
+    "audioEndTime": 35,
+    "songTitle": "Vive le vent",
+    "songArtist": "Dalida",
+    "category": "Noël"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Madonna",
+      "Bruno Mars",
+      "Queen",
+      "Michael Jackson"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "fJ9rUzIMcZQ",
+    "audioStartTime": 50,
+    "audioEndTime": 65,
+    "songTitle": "Bohemian Rhapsody",
+    "songArtist": "Queen",
+    "category": "Hits Internationaux"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Bruno Mars",
+      "Michael Jackson",
+      "PSY",
+      "Beyoncé"
+    ],
+    "correctIndex": 1,
+    "youtubeVideoId": "Zi_XLOBDo_Y",
+    "audioStartTime": 30,
+    "audioEndTime": 45,
+    "songTitle": "Billie Jean",
+    "songArtist": "Michael Jackson",
+    "category": "Hits Internationaux"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Rihanna",
+      "ABBA",
+      "Ed Sheeran",
+      "Nirvana"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "JGwWNGJdvx8",
+    "audioStartTime": 45,
+    "audioEndTime": 60,
+    "songTitle": "Shape of You",
+    "songArtist": "Ed Sheeran",
+    "category": "Hits Internationaux"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Bruno Mars",
+      "Nirvana",
+      "Whitney Houston",
+      "Luis Fonsi"
+    ],
+    "correctIndex": 0,
+    "youtubeVideoId": "OPf0YbXqDm0",
+    "audioStartTime": 60,
+    "audioEndTime": 75,
+    "songTitle": "Uptown Funk",
+    "songArtist": "Bruno Mars",
+    "category": "Hits Internationaux"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Ed Sheeran",
+      "Nirvana",
+      "Adele",
+      "Queen"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "rYEDA3JcQqw",
+    "audioStartTime": 60,
+    "audioEndTime": 75,
+    "songTitle": "Rolling in the Deep",
+    "songArtist": "Adele",
+    "category": "Hits Internationaux"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "The Weeknd",
+      "Ed Sheeran",
+      "Beyoncé",
+      "Pharrell Williams"
+    ],
+    "correctIndex": 0,
+    "youtubeVideoId": "4NRXx6U8ABQ",
+    "audioStartTime": 45,
+    "audioEndTime": 60,
+    "songTitle": "Blinding Lights",
+    "songArtist": "The Weeknd",
+    "category": "Hits Internationaux"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Daft Punk",
+      "Adele",
+      "The Weeknd",
+      "Beyoncé"
+    ],
+    "correctIndex": 0,
+    "youtubeVideoId": "CCHdMIEGaaM",
+    "audioStartTime": 55,
+    "audioEndTime": 70,
+    "songTitle": "Get Lucky",
+    "songArtist": "Daft Punk",
+    "category": "Hits Internationaux"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Nirvana",
+      "Pharrell Williams",
+      "a-ha",
+      "Whitney Houston"
+    ],
+    "correctIndex": 0,
+    "youtubeVideoId": "hTWKbfoikeg",
+    "audioStartTime": 25,
+    "audioEndTime": 40,
+    "songTitle": "Smells Like Teen Spirit",
+    "songArtist": "Nirvana",
+    "category": "Hits Internationaux"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "a-ha",
+      "Bruno Mars",
+      "ABBA",
+      "Nirvana"
+    ],
+    "correctIndex": 0,
+    "youtubeVideoId": "djV11Xbc914",
+    "audioStartTime": 50,
+    "audioEndTime": 65,
+    "songTitle": "Take On Me",
+    "songArtist": "a-ha",
+    "category": "Hits Internationaux"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Adele",
+      "Beyoncé",
+      "Billie Eilish",
+      "Madonna"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "DyDfgMOUjCI",
+    "audioStartTime": 15,
+    "audioEndTime": 30,
+    "songTitle": "Bad Guy",
+    "songArtist": "Billie Eilish",
+    "category": "Hits Internationaux"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "a-ha",
+      "Madonna",
+      "Pharrell Williams",
+      "Luis Fonsi"
+    ],
+    "correctIndex": 3,
+    "youtubeVideoId": "kJQP7kiw5Fk",
+    "audioStartTime": 60,
+    "audioEndTime": 75,
+    "songTitle": "Despacito",
+    "songArtist": "Luis Fonsi",
+    "category": "Hits Internationaux"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Daft Punk",
+      "Bruno Mars",
+      "PSY",
+      "ABBA"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "9bZkp7q19f0",
+    "audioStartTime": 45,
+    "audioEndTime": 60,
+    "songTitle": "Gangnam Style",
+    "songArtist": "PSY",
+    "category": "Hits Internationaux"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Madonna",
+      "PSY",
+      "Pharrell Williams",
+      "Bee Gees"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "ZbZSe6N_BXs",
+    "audioStartTime": 50,
+    "audioEndTime": 65,
+    "songTitle": "Happy",
+    "songArtist": "Pharrell Williams",
+    "category": "Hits Internationaux"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Bee Gees",
+      "ABBA",
+      "Beyoncé",
+      "Bruno Mars"
+    ],
+    "correctIndex": 1,
+    "youtubeVideoId": "xFrGuyw1V8s",
+    "audioStartTime": 50,
+    "audioEndTime": 65,
+    "songTitle": "Dancing Queen",
+    "songArtist": "ABBA",
+    "category": "Hits Internationaux"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Adele",
+      "Whitney Houston",
+      "Bee Gees",
+      "Nirvana"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "fNFzfwLM72c",
+    "audioStartTime": 30,
+    "audioEndTime": 45,
+    "songTitle": "Stayin' Alive",
+    "songArtist": "Bee Gees",
+    "category": "Hits Internationaux"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Stromae",
+      "Aya Nakamura",
+      "Black M",
+      "Mylène Farmer"
+    ],
+    "correctIndex": 0,
+    "youtubeVideoId": "S_xH7noaqTA",
+    "audioStartTime": 45,
+    "audioEndTime": 60,
+    "songTitle": "Formidable",
+    "songArtist": "Stromae",
+    "category": "Variété Française"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Johnny Hallyday",
+      "Mylène Farmer",
+      "Édith Piaf",
+      "Stromae"
+    ],
+    "correctIndex": 3,
+    "youtubeVideoId": "oiKj0Z_Xnjc",
+    "audioStartTime": 50,
+    "audioEndTime": 65,
+    "songTitle": "Papaoutai",
+    "songArtist": "Stromae",
+    "category": "Variété Française"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Francis Cabrel",
+      "Stromae",
+      "Maître Gims",
+      "Renaud"
+    ],
+    "correctIndex": 1,
+    "youtubeVideoId": "VHoT4N43jK8",
+    "audioStartTime": 45,
+    "audioEndTime": 60,
+    "songTitle": "Alors on danse",
+    "songArtist": "Stromae",
+    "category": "Variété Française"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "France Gall",
+      "Mylène Farmer",
+      "Édith Piaf",
+      "Zaz"
+    ],
+    "correctIndex": 3,
+    "youtubeVideoId": "0TFNGRYMz1U",
+    "audioStartTime": 30,
+    "audioEndTime": 45,
+    "songTitle": "Je veux",
+    "songArtist": "Zaz",
+    "category": "Variété Française"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Maître Gims",
+      "Jean-Jacques Goldman",
+      "Renaud",
+      "Aya Nakamura"
+    ],
+    "correctIndex": 3,
+    "youtubeVideoId": "iPGgnzc34tY",
+    "audioStartTime": 40,
+    "audioEndTime": 55,
+    "songTitle": "Djadja",
+    "songArtist": "Aya Nakamura",
+    "category": "Variété Française"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Maître Gims",
+      "Black M",
+      "Zaz",
+      "Renaud"
+    ],
+    "correctIndex": 0,
+    "youtubeVideoId": "rMltoD1jCGI",
+    "audioStartTime": 50,
+    "audioEndTime": 65,
+    "songTitle": "Bella",
+    "songArtist": "Maître Gims",
+    "category": "Variété Française"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Johnny Hallyday",
+      "Angèle",
+      "Charles Aznavour",
+      "Francis Cabrel"
+    ],
+    "correctIndex": 1,
+    "youtubeVideoId": "Hi7Rx3En7-k",
+    "audioStartTime": 35,
+    "audioEndTime": 50,
+    "songTitle": "Balance ton quoi",
+    "songArtist": "Angèle",
+    "category": "Variété Française"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Zaz",
+      "Angèle",
+      "Aya Nakamura",
+      "Céline Dion"
+    ],
+    "correctIndex": 1,
+    "youtubeVideoId": "Fy1xQSiLx8U",
+    "audioStartTime": 30,
+    "audioEndTime": 45,
+    "songTitle": "Tout oublier",
+    "songArtist": "Angèle",
+    "category": "Variété Française"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Édith Piaf",
+      "France Gall",
+      "Charles Aznavour",
+      "Céline Dion"
+    ],
+    "correctIndex": 0,
+    "youtubeVideoId": "rzeLynj1GYM",
+    "audioStartTime": 20,
+    "audioEndTime": 35,
+    "songTitle": "La Vie en Rose",
+    "songArtist": "Édith Piaf",
+    "category": "Variété Française"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Dalida",
+      "Renaud",
+      "Black M",
+      "Indila"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "U-Z_bZS8t3M",
+    "audioStartTime": 55,
+    "audioEndTime": 70,
+    "songTitle": "Sur ma route",
+    "songArtist": "Black M",
+    "category": "Variété Française"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Dalida",
+      "Maître Gims",
+      "Mylène Farmer",
+      "France Gall"
+    ],
+    "correctIndex": 1,
+    "youtubeVideoId": "4bPGxLxogvw",
+    "audioStartTime": 50,
+    "audioEndTime": 65,
+    "songTitle": "Sapés comme jamais",
+    "songArtist": "Maître Gims",
+    "category": "Variété Française"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Céline Dion",
+      "Indila",
+      "Dalida",
+      "Renaud"
+    ],
+    "correctIndex": 1,
+    "youtubeVideoId": "K5KAc5CoCuk",
+    "audioStartTime": 60,
+    "audioEndTime": 75,
+    "songTitle": "Dernière Danse",
+    "songArtist": "Indila",
+    "category": "Variété Française"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Charles Aznavour",
+      "Zaz",
+      "Céline Dion",
+      "Jean-Jacques Goldman"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "AzaTyxMduH4",
+    "audioStartTime": 60,
+    "audioEndTime": 75,
+    "songTitle": "Pour que tu m'aimes encore",
+    "songArtist": "Céline Dion",
+    "category": "Variété Française"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "Qui chante cette chanson ?",
+    "options": [
+      "Maître Gims",
+      "Renaud",
+      "Johnny Hallyday",
+      "France Gall"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "s3O1Xro7oAI",
+    "audioStartTime": 45,
+    "audioEndTime": 60,
+    "songTitle": "Allumer le feu",
+    "songArtist": "Johnny Hallyday",
+    "category": "Variété Française"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film Disney provient cette chanson ?",
+    "options": [
+      "Encanto",
+      "La Reine des Neiges",
+      "Cendrillon",
+      "Tarzan"
+    ],
+    "correctIndex": 1,
+    "youtubeVideoId": "YVVTZgwYwVo",
+    "audioStartTime": 60,
+    "audioEndTime": 75,
+    "songTitle": "Libérée Délivrée",
+    "songArtist": "La Reine des Neiges",
+    "category": "Disney"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film Disney provient cette chanson ?",
+    "options": [
+      "Aladdin",
+      "Raiponce",
+      "Tarzan",
+      "Le Roi Lion"
+    ],
+    "correctIndex": 3,
+    "youtubeVideoId": "kaOIxll4LCA",
+    "audioStartTime": 50,
+    "audioEndTime": 65,
+    "songTitle": "Hakuna Matata",
+    "songArtist": "Le Roi Lion",
+    "category": "Disney"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film Disney provient cette chanson ?",
+    "options": [
+      "La Belle et la Bête",
+      "Cars",
+      "La Petite Sirène",
+      "Coco"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "GC_mV1IpjWA",
+    "audioStartTime": 30,
+    "audioEndTime": 45,
+    "songTitle": "Sous l'océan",
+    "songArtist": "La Petite Sirène",
+    "category": "Disney"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film Disney provient cette chanson ?",
+    "options": [
+      "Cars",
+      "Aladdin",
+      "Raiponce",
+      "Coco"
+    ],
+    "correctIndex": 1,
+    "youtubeVideoId": "eitDnP0_83k",
+    "audioStartTime": 55,
+    "audioEndTime": 70,
+    "songTitle": "Ce rêve bleu",
+    "songArtist": "Aladdin",
+    "category": "Disney"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film Disney provient cette chanson ?",
+    "options": [
+      "Cendrillon",
+      "Coco",
+      "Vaiana",
+      "Encanto"
+    ],
+    "correctIndex": 3,
+    "youtubeVideoId": "bvWRMAU6V-c",
+    "audioStartTime": 45,
+    "audioEndTime": 60,
+    "songTitle": "We Don't Talk About Bruno",
+    "songArtist": "Encanto",
+    "category": "Disney"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film Disney provient cette chanson ?",
+    "options": [
+      "Vaiana",
+      "Le Roi Lion",
+      "Mulan",
+      "Raiponce"
+    ],
+    "correctIndex": 0,
+    "youtubeVideoId": "cPAbx5kgCJo",
+    "audioStartTime": 60,
+    "audioEndTime": 75,
+    "songTitle": "Le bleu lumière",
+    "songArtist": "Vaiana",
+    "category": "Disney"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film Disney provient cette chanson ?",
+    "options": [
+      "Vaiana",
+      "Tarzan",
+      "Coco",
+      "Le Livre de la Jungle"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "A0azOIk0Kvg",
+    "audioStartTime": 30,
+    "audioEndTime": 45,
+    "songTitle": "Remember Me",
+    "songArtist": "Coco",
+    "category": "Disney"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film Disney provient cette chanson ?",
+    "options": [
+      "Le Roi Lion",
+      "Hercule",
+      "La Reine des Neiges",
+      "Tarzan"
+    ],
+    "correctIndex": 0,
+    "youtubeVideoId": "GibiNy4d4gc",
+    "audioStartTime": 45,
+    "audioEndTime": 60,
+    "songTitle": "L'histoire de la vie",
+    "songArtist": "Le Roi Lion",
+    "category": "Disney"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film Disney provient cette chanson ?",
+    "options": [
+      "Cars",
+      "La Belle et la Bête",
+      "Hercule",
+      "Coco"
+    ],
+    "correctIndex": 1,
+    "youtubeVideoId": "xDUhINW3SPs",
+    "audioStartTime": 40,
+    "audioEndTime": 55,
+    "songTitle": "Histoire éternelle",
+    "songArtist": "La Belle et la Bête",
+    "category": "Disney"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film Disney provient cette chanson ?",
+    "options": [
+      "Lilo et Stitch",
+      "La Reine des Neiges",
+      "Toy Story",
+      "Coco"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "nMN4JZ8crVY",
+    "audioStartTime": 20,
+    "audioEndTime": 35,
+    "songTitle": "Je suis ton ami",
+    "songArtist": "Toy Story",
+    "category": "Disney"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quelle série provient ce générique ?",
+    "options": [
+      "Friends",
+      "Breaking Bad",
+      "The Big Bang Theory",
+      "Peaky Blinders"
+    ],
+    "correctIndex": 0,
+    "youtubeVideoId": "S8PNXgLhkT0",
+    "audioStartTime": 5,
+    "audioEndTime": 20,
+    "songTitle": "I'll Be There For You",
+    "songArtist": "Friends",
+    "category": "Génériques TV"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quelle série provient ce générique ?",
+    "options": [
+      "Stranger Things",
+      "Friends",
+      "Game of Thrones",
+      "Breaking Bad"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "TZE9gVF1QbA",
+    "audioStartTime": 10,
+    "audioEndTime": 25,
+    "songTitle": "Main Title",
+    "songArtist": "Game of Thrones",
+    "category": "Génériques TV"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quelle série provient ce générique ?",
+    "options": [
+      "One Piece",
+      "Stranger Things",
+      "The Big Bang Theory",
+      "La Casa de Papel"
+    ],
+    "correctIndex": 1,
+    "youtubeVideoId": "-RcPZdihrp4",
+    "audioStartTime": 5,
+    "audioEndTime": 20,
+    "songTitle": "Stranger Things Theme",
+    "songArtist": "Stranger Things",
+    "category": "Génériques TV"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quelle série provient ce générique ?",
+    "options": [
+      "La Casa de Papel",
+      "Naruto",
+      "Breaking Bad",
+      "The Office"
+    ],
+    "correctIndex": 0,
+    "youtubeVideoId": "9KKqFjCpPL4",
+    "audioStartTime": 30,
+    "audioEndTime": 45,
+    "songTitle": "My Life Is Going On",
+    "songArtist": "La Casa de Papel",
+    "category": "Génériques TV"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quelle série provient ce générique ?",
+    "options": [
+      "The Walking Dead",
+      "Peaky Blinders",
+      "Les Simpsons",
+      "One Piece"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "aPzS3QYb868",
+    "audioStartTime": 5,
+    "audioEndTime": 20,
+    "songTitle": "The Simpsons Theme",
+    "songArtist": "Les Simpsons",
+    "category": "Génériques TV"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quelle série provient ce générique ?",
+    "options": [
+      "One Piece",
+      "The Walking Dead",
+      "Dragon Ball Z",
+      "Breaking Bad"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "qQmTdijhjD4",
+    "audioStartTime": 30,
+    "audioEndTime": 45,
+    "songTitle": "Cha-La Head-Cha-La",
+    "songArtist": "Dragon Ball Z",
+    "category": "Génériques TV"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quelle série provient ce générique ?",
+    "options": [
+      "Breaking Bad",
+      "Les Simpsons",
+      "Peaky Blinders",
+      "One Piece"
+    ],
+    "correctIndex": 0,
+    "youtubeVideoId": "3U6PSWyv5sc",
+    "audioStartTime": 30,
+    "audioEndTime": 40,
+    "songTitle": "Breaking Bad Theme",
+    "songArtist": "Breaking Bad",
+    "category": "Génériques TV"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quelle série provient ce générique ?",
+    "options": [
+      "Stranger Things",
+      "Les Simpsons",
+      "Friends",
+      "The Office"
+    ],
+    "correctIndex": 3,
+    "youtubeVideoId": "4iisysmwB_k",
+    "audioStartTime": 30,
+    "audioEndTime": 42,
+    "songTitle": "The Office Theme",
+    "songArtist": "The Office",
+    "category": "Génériques TV"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quelle série provient ce générique ?",
+    "options": [
+      "Peaky Blinders",
+      "Naruto",
+      "How I Met Your Mother",
+      "Stranger Things"
+    ],
+    "correctIndex": 0,
+    "youtubeVideoId": "KGD2N5hJ2e0",
+    "audioStartTime": 30,
+    "audioEndTime": 45,
+    "songTitle": "Red Right Hand",
+    "songArtist": "Peaky Blinders",
+    "category": "Génériques TV"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quelle série provient ce générique ?",
+    "options": [
+      "La Casa de Papel",
+      "Friends",
+      "Les Simpsons",
+      "Squid Game"
+    ],
+    "correctIndex": 3,
+    "youtubeVideoId": "v9NQYKv2rTg",
+    "audioStartTime": 10,
+    "audioEndTime": 25,
+    "songTitle": "Pink Soldiers",
+    "songArtist": "Squid Game",
+    "category": "Génériques TV"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film provient cette musique ?",
+    "options": [
+      "Amélie Poulain",
+      "Mission Impossible",
+      "Titanic",
+      "Pirates des Caraïbes"
+    ],
+    "correctIndex": 3,
+    "youtubeVideoId": "yRh-dzrI4Z4",
+    "audioStartTime": 30,
+    "audioEndTime": 45,
+    "songTitle": "He's a Pirate",
+    "songArtist": "Pirates des Caraïbes",
+    "category": "Musiques de Films"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film provient cette musique ?",
+    "options": [
+      "Harry Potter",
+      "The Dark Knight",
+      "Gladiator",
+      "Interstellar"
+    ],
+    "correctIndex": 0,
+    "youtubeVideoId": "QrTrmnpTNwY",
+    "audioStartTime": 30,
+    "audioEndTime": 45,
+    "songTitle": "Hedwig's Theme",
+    "songArtist": "Harry Potter",
+    "category": "Musiques de Films"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film provient cette musique ?",
+    "options": [
+      "Amélie Poulain",
+      "Interstellar",
+      "Star Wars",
+      "Indiana Jones"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "54hoKbTWon4",
+    "audioStartTime": 10,
+    "audioEndTime": 25,
+    "songTitle": "Main Title",
+    "songArtist": "Star Wars",
+    "category": "Musiques de Films"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film provient cette musique ?",
+    "options": [
+      "Le Seigneur des Anneaux",
+      "Titanic",
+      "Jurassic Park",
+      "Avengers"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "-NqaupGcCpw",
+    "audioStartTime": 45,
+    "audioEndTime": 60,
+    "songTitle": "Theme from Jurassic Park",
+    "songArtist": "Jurassic Park",
+    "category": "Musiques de Films"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film provient cette musique ?",
+    "options": [
+      "Le Seigneur des Anneaux",
+      "Matrix",
+      "Jurassic Park",
+      "Pirates des Caraïbes"
+    ],
+    "correctIndex": 0,
+    "youtubeVideoId": "CL_3mlOPnGI",
+    "audioStartTime": 60,
+    "audioEndTime": 75,
+    "songTitle": "Concerning Hobbits",
+    "songArtist": "Le Seigneur des Anneaux",
+    "category": "Musiques de Films"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film provient cette musique ?",
+    "options": [
+      "Inception",
+      "Jurassic Park",
+      "Matrix",
+      "Amélie Poulain"
+    ],
+    "correctIndex": 0,
+    "youtubeVideoId": "c56t7upa8Bk",
+    "audioStartTime": 30,
+    "audioEndTime": 45,
+    "songTitle": "Time",
+    "songArtist": "Inception",
+    "category": "Musiques de Films"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film provient cette musique ?",
+    "options": [
+      "James Bond",
+      "Mission Impossible",
+      "Titanic",
+      "Inception"
+    ],
+    "correctIndex": 1,
+    "youtubeVideoId": "XAYhNHhxN0A",
+    "audioStartTime": 5,
+    "audioEndTime": 20,
+    "songTitle": "Mission: Impossible Theme",
+    "songArtist": "Mission Impossible",
+    "category": "Musiques de Films"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film provient cette musique ?",
+    "options": [
+      "Avatar",
+      "James Bond",
+      "Gladiator",
+      "Avengers"
+    ],
+    "correctIndex": 1,
+    "youtubeVideoId": "U9FzgsF2T-s",
+    "audioStartTime": 10,
+    "audioEndTime": 25,
+    "songTitle": "James Bond Theme",
+    "songArtist": "James Bond",
+    "category": "Musiques de Films"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film provient cette musique ?",
+    "options": [
+      "Star Wars",
+      "Avatar",
+      "Indiana Jones",
+      "Inception"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "bC77czRbjd0",
+    "audioStartTime": 10,
+    "audioEndTime": 25,
+    "songTitle": "Raiders March",
+    "songArtist": "Indiana Jones",
+    "category": "Musiques de Films"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film provient cette musique ?",
+    "options": [
+      "Amélie Poulain",
+      "Star Wars",
+      "Pirates des Caraïbes",
+      "James Bond"
+    ],
+    "correctIndex": 0,
+    "youtubeVideoId": "PaXKf0JEzEA",
+    "audioStartTime": 20,
+    "audioEndTime": 35,
+    "songTitle": "Comptine d'un autre été",
+    "songArtist": "Amélie Poulain",
+    "category": "Musiques de Films"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film provient cette musique ?",
+    "options": [
+      "Harry Potter",
+      "James Bond",
+      "Mission Impossible",
+      "Titanic"
+    ],
+    "correctIndex": 3,
+    "youtubeVideoId": "F2RnxZnubCM",
+    "audioStartTime": 75,
+    "audioEndTime": 90,
+    "songTitle": "My Heart Will Go On",
+    "songArtist": "Titanic",
+    "category": "Musiques de Films"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film provient cette musique ?",
+    "options": [
+      "James Bond",
+      "Interstellar",
+      "Indiana Jones",
+      "Jurassic Park"
+    ],
+    "correctIndex": 1,
+    "youtubeVideoId": "UDVtMYqUAyw",
+    "audioStartTime": 60,
+    "audioEndTime": 75,
+    "songTitle": "Main Theme",
+    "songArtist": "Interstellar",
+    "category": "Musiques de Films"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film provient cette musique ?",
+    "options": [
+      "Jurassic Park",
+      "Star Wars",
+      "The Dark Knight",
+      "Avengers"
+    ],
+    "correctIndex": 3,
+    "youtubeVideoId": "QtxeJ703w18",
+    "audioStartTime": 30,
+    "audioEndTime": 45,
+    "songTitle": "The Avengers Theme",
+    "songArtist": "Avengers",
+    "category": "Musiques de Films"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film provient cette musique ?",
+    "options": [
+      "Avatar",
+      "The Dark Knight",
+      "Star Wars",
+      "Inception"
+    ],
+    "correctIndex": 1,
+    "youtubeVideoId": "iGx5a1ifSDs",
+    "audioStartTime": 60,
+    "audioEndTime": 75,
+    "songTitle": "Why So Serious?",
+    "songArtist": "The Dark Knight",
+    "category": "Musiques de Films"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel film provient cette musique ?",
+    "options": [
+      "Gladiator",
+      "Le Seigneur des Anneaux",
+      "Matrix",
+      "Star Wars"
+    ],
+    "correctIndex": 0,
+    "youtubeVideoId": "mQQKZ5cgybU",
+    "audioStartTime": 90,
+    "audioEndTime": 105,
+    "songTitle": "Now We Are Free",
+    "songArtist": "Gladiator",
+    "category": "Musiques de Films"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel jeu vidéo provient cette musique ?",
+    "options": [
+      "Assassin's Creed",
+      "GTA San Andreas",
+      "Super Mario Bros",
+      "Undertale"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "uhscMsBhNhw",
+    "audioStartTime": 5,
+    "audioEndTime": 20,
+    "songTitle": "Super Mario Bros Theme",
+    "songArtist": "Super Mario Bros",
+    "category": "Jeux Vidéo"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel jeu vidéo provient cette musique ?",
+    "options": [
+      "FIFA",
+      "The Legend of Zelda",
+      "Sonic",
+      "Wii Sports"
+    ],
+    "correctIndex": 1,
+    "youtubeVideoId": "uyMKWJ5e1kg",
+    "audioStartTime": 10,
+    "audioEndTime": 25,
+    "songTitle": "Main Theme",
+    "songArtist": "The Legend of Zelda",
+    "category": "Jeux Vidéo"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel jeu vidéo provient cette musique ?",
+    "options": [
+      "The Last of Us",
+      "Wii Sports",
+      "Minecraft",
+      "Among Us"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "aBkTkxKDduc",
+    "audioStartTime": 30,
+    "audioEndTime": 45,
+    "songTitle": "Sweden",
+    "songArtist": "Minecraft",
+    "category": "Jeux Vidéo"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel jeu vidéo provient cette musique ?",
+    "options": [
+      "Undertale",
+      "Fortnite",
+      "Wii Sports",
+      "Super Mario Bros"
+    ],
+    "correctIndex": 0,
+    "youtubeVideoId": "KK3KXAECte4",
+    "audioStartTime": 10,
+    "audioEndTime": 25,
+    "songTitle": "Megalovania",
+    "songArtist": "Undertale",
+    "category": "Jeux Vidéo"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel jeu vidéo provient cette musique ?",
+    "options": [
+      "Super Mario Bros",
+      "Undertale",
+      "GTA San Andreas",
+      "Pokémon"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "TTB6eEHCAko",
+    "audioStartTime": 10,
+    "audioEndTime": 25,
+    "songTitle": "Theme",
+    "songArtist": "GTA San Andreas",
+    "category": "Jeux Vidéo"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel jeu vidéo provient cette musique ?",
+    "options": [
+      "Minecraft",
+      "GTA San Andreas",
+      "Skyrim",
+      "FIFA"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "UsnRQJxanVM",
+    "audioStartTime": 60,
+    "audioEndTime": 75,
+    "songTitle": "Dragonborn",
+    "songArtist": "Skyrim",
+    "category": "Jeux Vidéo"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel jeu vidéo provient cette musique ?",
+    "options": [
+      "Tetris",
+      "Among Us",
+      "The Last of Us",
+      "Skyrim"
+    ],
+    "correctIndex": 0,
+    "youtubeVideoId": "NmCCQxVBfyM",
+    "audioStartTime": 10,
+    "audioEndTime": 25,
+    "songTitle": "Korobeiniki",
+    "songArtist": "Tetris",
+    "category": "Jeux Vidéo"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel jeu vidéo provient cette musique ?",
+    "options": [
+      "Among Us",
+      "Undertale",
+      "Sonic",
+      "Pokémon"
+    ],
+    "correctIndex": 2,
+    "youtubeVideoId": "G-i8HYi1QH0",
+    "audioStartTime": 5,
+    "audioEndTime": 20,
+    "songTitle": "Green Hill Zone",
+    "songArtist": "Sonic",
+    "category": "Jeux Vidéo"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel jeu vidéo provient cette musique ?",
+    "options": [
+      "God of War",
+      "Pokémon",
+      "Super Mario Bros",
+      "Fortnite"
+    ],
+    "correctIndex": 1,
+    "youtubeVideoId": "Fupfr_eVLPo",
+    "audioStartTime": 10,
+    "audioEndTime": 25,
+    "songTitle": "Battle Theme",
+    "songArtist": "Pokémon",
+    "category": "Jeux Vidéo"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel jeu vidéo provient cette musique ?",
+    "options": [
+      "Final Fantasy",
+      "Minecraft",
+      "Pokémon",
+      "Tetris"
+    ],
+    "correctIndex": 0,
+    "youtubeVideoId": "rgUksX6eM0Y",
+    "audioStartTime": 30,
+    "audioEndTime": 40,
+    "songTitle": "Victory Fanfare",
+    "songArtist": "Final Fantasy",
+    "category": "Jeux Vidéo"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel jeu vidéo provient cette musique ?",
+    "options": [
+      "Undertale",
+      "Wii Sports",
+      "GTA San Andreas",
+      "Sonic"
+    ],
+    "correctIndex": 1,
+    "youtubeVideoId": "2qvAxPqy2wA",
+    "audioStartTime": 30,
+    "audioEndTime": 45,
+    "songTitle": "Wii Sports Theme",
+    "songArtist": "Wii Sports",
+    "category": "Jeux Vidéo"
+  },
+  {
+    "type": "BLINDTEST",
+    "text": "De quel jeu vidéo provient cette musique ?",
+    "options": [
+      "Assassin's Creed",
+      "Among Us",
+      "Pokémon",
+      "The Legend of Zelda"
+    ],
+    "correctIndex": 1,
+    "youtubeVideoId": "grd-K33tOSM",
+    "audioStartTime": 10,
+    "audioEndTime": 25,
+    "songTitle": "Among Us Theme",
+    "songArtist": "Among Us",
+    "category": "Jeux Vidéo"
+  }
+]

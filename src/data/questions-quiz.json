@@ -1,0 +1,982 @@
+[
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale de la France ?",
+    "options": ["Lyon", "Paris", "Marseille", "Toulouse"],
+    "correctIndex": 1,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien de rennes tirent le traîneau du Père Noël ?",
+    "options": ["6", "7", "8", "9"],
+    "correctIndex": 3,
+    "category": "Noël"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le nom du renne au nez rouge ?",
+    "options": ["Dasher", "Rudolph", "Blitzen", "Comet"],
+    "correctIndex": 1,
+    "category": "Noël"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Dans quel pays le Père Noël habite-t-il traditionnellement ?",
+    "options": ["Canada", "Norvège", "Finlande", "Russie"],
+    "correctIndex": 2,
+    "category": "Noël"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle couleur était le costume du Père Noël avant Coca-Cola ?",
+    "options": ["Bleu", "Vert", "Marron", "Violet"],
+    "correctIndex": 1,
+    "category": "Noël"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel dessert est traditionnellement servi à Noël en France ?",
+    "options": ["Galette des rois", "Bûche de Noël", "Paris-Brest", "Tarte Tatin"],
+    "correctIndex": 1,
+    "category": "Noël"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien y a-t-il de jours dans une année bissextile ?",
+    "options": ["364", "365", "366", "367"],
+    "correctIndex": 2,
+    "category": "Culture Générale"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le plus grand océan du monde ?",
+    "options": ["Atlantique", "Indien", "Arctique", "Pacifique"],
+    "correctIndex": 3,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
+    "options": ["1965", "1969", "1972", "1975"],
+    "correctIndex": 1,
+    "category": "Histoire"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le plus petit pays du monde ?",
+    "options": ["Monaco", "Vatican", "Saint-Marin", "Liechtenstein"],
+    "correctIndex": 1,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien de continents y a-t-il sur Terre ?",
+    "options": ["5", "6", "7", "8"],
+    "correctIndex": 2,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la planète la plus proche du Soleil ?",
+    "options": ["Vénus", "Mars", "Mercure", "Terre"],
+    "correctIndex": 2,
+    "category": "Sciences"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel animal est le symbole de l'Australie ?",
+    "options": ["Koala", "Kangourou", "Ornithorynque", "Émeu"],
+    "correctIndex": 1,
+    "category": "Culture Générale"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien de joueurs y a-t-il dans une équipe de football ?",
+    "options": ["9", "10", "11", "12"],
+    "correctIndex": 2,
+    "category": "Sport"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la monnaie du Japon ?",
+    "options": ["Yuan", "Won", "Yen", "Ringgit"],
+    "correctIndex": 2,
+    "category": "Culture Générale"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Qui a peint La Joconde ?",
+    "options": ["Michel-Ange", "Raphaël", "Léonard de Vinci", "Botticelli"],
+    "correctIndex": 2,
+    "category": "Art"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le fleuve le plus long du monde ?",
+    "options": ["Amazone", "Nil", "Yangtsé", "Mississippi"],
+    "correctIndex": 1,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Dans quel film trouve-t-on le personnage de Jack Sparrow ?",
+    "options": ["Le Seigneur des Anneaux", "Pirates des Caraïbes", "Harry Potter", "Gladiator"],
+    "correctIndex": 1,
+    "category": "Cinéma"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel superhéros est aussi connu sous le nom de Bruce Wayne ?",
+    "options": ["Superman", "Spider-Man", "Batman", "Iron Man"],
+    "correctIndex": 2,
+    "category": "Cinéma"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale de l'Espagne ?",
+    "options": ["Barcelone", "Séville", "Madrid", "Valence"],
+    "correctIndex": 2,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien de pattes a une araignée ?",
+    "options": ["6", "8", "10", "12"],
+    "correctIndex": 1,
+    "category": "Sciences"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est l'élément chimique représenté par le symbole 'O' ?",
+    "options": ["Or", "Oxygène", "Osmium", "Oganesson"],
+    "correctIndex": 1,
+    "category": "Sciences"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Qui a écrit 'Les Misérables' ?",
+    "options": ["Émile Zola", "Victor Hugo", "Gustave Flaubert", "Alexandre Dumas"],
+    "correctIndex": 1,
+    "category": "Littérature"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel pays a offert la Statue de la Liberté aux États-Unis ?",
+    "options": ["Angleterre", "Espagne", "France", "Italie"],
+    "correctIndex": 2,
+    "category": "Histoire"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale de l'Italie ?",
+    "options": ["Milan", "Rome", "Florence", "Venise"],
+    "correctIndex": 1,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel instrument de musique a 88 touches ?",
+    "options": ["Orgue", "Accordéon", "Piano", "Clavecin"],
+    "correctIndex": 2,
+    "category": "Musique"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Dans quel pays se trouve la tour de Pise ?",
+    "options": ["France", "Espagne", "Italie", "Grèce"],
+    "correctIndex": 2,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le plus grand mammifère du monde ?",
+    "options": ["Éléphant", "Baleine bleue", "Girafe", "Rhinocéros"],
+    "correctIndex": 1,
+    "category": "Sciences"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien de couleurs y a-t-il dans un arc-en-ciel ?",
+    "options": ["5", "6", "7", "8"],
+    "correctIndex": 2,
+    "category": "Sciences"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le nom du célèbre magicien créé par J.K. Rowling ?",
+    "options": ["Gandalf", "Merlin", "Harry Potter", "Dumbledore"],
+    "correctIndex": 2,
+    "category": "Littérature"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale du Royaume-Uni ?",
+    "options": ["Manchester", "Liverpool", "Londres", "Birmingham"],
+    "correctIndex": 2,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel fruit est traditionnellement utilisé pour faire du cidre ?",
+    "options": ["Raisin", "Poire", "Pomme", "Cerise"],
+    "correctIndex": 2,
+    "category": "Gastronomie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le nom du bonhomme de neige dans 'La Reine des Neiges' ?",
+    "options": ["Sven", "Olaf", "Kristoff", "Hans"],
+    "correctIndex": 1,
+    "category": "Disney"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien de nains accompagnent Blanche-Neige ?",
+    "options": ["5", "6", "7", "8"],
+    "correctIndex": 2,
+    "category": "Disney"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel personnage Disney vit dans une lampe magique ?",
+    "options": ["Peter Pan", "Le Génie", "Dumbo", "Pinocchio"],
+    "correctIndex": 1,
+    "category": "Disney"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle princesse Disney a une chevelure magique très longue ?",
+    "options": ["Cendrillon", "Belle", "Raiponce", "Aurore"],
+    "correctIndex": 2,
+    "category": "Disney"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le nom du père de Simba dans Le Roi Lion ?",
+    "options": ["Scar", "Mufasa", "Zazu", "Rafiki"],
+    "correctIndex": 1,
+    "category": "Disney"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale de l'Allemagne ?",
+    "options": ["Munich", "Francfort", "Berlin", "Hambourg"],
+    "correctIndex": 2,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le sport national du Canada ?",
+    "options": ["Basketball", "Hockey sur glace", "Baseball", "Football américain"],
+    "correctIndex": 1,
+    "category": "Sport"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien de cordes a une guitare classique ?",
+    "options": ["4", "5", "6", "7"],
+    "correctIndex": 2,
+    "category": "Musique"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel animal peut dormir debout ?",
+    "options": ["Vache", "Cheval", "Mouton", "Chèvre"],
+    "correctIndex": 1,
+    "category": "Sciences"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Dans quel pays se trouvent les pyramides de Gizeh ?",
+    "options": ["Maroc", "Tunisie", "Égypte", "Libye"],
+    "correctIndex": 2,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le nom du méchant dans Le Roi Lion ?",
+    "options": ["Jafar", "Scar", "Hadès", "Gaston"],
+    "correctIndex": 1,
+    "category": "Disney"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la durée d'un match de football ?",
+    "options": ["80 minutes", "90 minutes", "100 minutes", "120 minutes"],
+    "correctIndex": 1,
+    "category": "Sport"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel pays a la forme d'une botte ?",
+    "options": ["Espagne", "France", "Italie", "Grèce"],
+    "correctIndex": 2,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le prénom de Mozart ?",
+    "options": ["Johann", "Ludwig", "Wolfgang", "Franz"],
+    "correctIndex": 2,
+    "category": "Musique"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien y a-t-il de lettres dans l'alphabet français ?",
+    "options": ["24", "25", "26", "27"],
+    "correctIndex": 2,
+    "category": "Culture Générale"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est l'animal terrestre le plus rapide ?",
+    "options": ["Lion", "Guépard", "Léopard", "Tigre"],
+    "correctIndex": 1,
+    "category": "Sciences"
+  },
+  {
+    "type": "QUIZ",
+    "text": "En quelle année la Révolution française a-t-elle commencé ?",
+    "options": ["1769", "1779", "1789", "1799"],
+    "correctIndex": 2,
+    "category": "Histoire"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel gaz les plantes absorbent-elles pour la photosynthèse ?",
+    "options": ["Oxygène", "Azote", "Dioxyde de carbone", "Hydrogène"],
+    "correctIndex": 2,
+    "category": "Sciences"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale du Portugal ?",
+    "options": ["Porto", "Lisbonne", "Faro", "Coimbra"],
+    "correctIndex": 1,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel acteur joue Iron Man dans les films Marvel ?",
+    "options": ["Chris Evans", "Chris Hemsworth", "Robert Downey Jr.", "Mark Ruffalo"],
+    "correctIndex": 2,
+    "category": "Cinéma"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien de points vaut un touchdown au football américain ?",
+    "options": ["3", "5", "6", "7"],
+    "correctIndex": 2,
+    "category": "Sport"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale de la Belgique ?",
+    "options": ["Anvers", "Bruxelles", "Gand", "Liège"],
+    "correctIndex": 1,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Qui a inventé l'ampoule électrique ?",
+    "options": ["Nikola Tesla", "Thomas Edison", "Alexander Bell", "Benjamin Franklin"],
+    "correctIndex": 1,
+    "category": "Histoire"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le nom de la fée dans Peter Pan ?",
+    "options": ["Fée Clochette", "Fée Bleue", "Fée Marraine", "Fée Flora"],
+    "correctIndex": 0,
+    "category": "Disney"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien de dents a un adulte (dentition complète) ?",
+    "options": ["28", "30", "32", "34"],
+    "correctIndex": 2,
+    "category": "Sciences"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel pays a le plus d'habitants au monde ?",
+    "options": ["États-Unis", "Inde", "Chine", "Indonésie"],
+    "correctIndex": 1,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le nom du célèbre détective créé par Arthur Conan Doyle ?",
+    "options": ["Hercule Poirot", "Sherlock Holmes", "Miss Marple", "Philip Marlowe"],
+    "correctIndex": 1,
+    "category": "Littérature"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale de la Russie ?",
+    "options": ["Saint-Pétersbourg", "Kiev", "Moscou", "Minsk"],
+    "correctIndex": 2,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel fruit est connu pour flotter sur l'eau ?",
+    "options": ["Pomme", "Orange", "Banane", "Raisin"],
+    "correctIndex": 0,
+    "category": "Sciences"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel artiste a chanté 'Thriller' ?",
+    "options": ["Prince", "Michael Jackson", "Stevie Wonder", "James Brown"],
+    "correctIndex": 1,
+    "category": "Musique"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien de faces a un dé classique ?",
+    "options": ["4", "6", "8", "10"],
+    "correctIndex": 1,
+    "category": "Culture Générale"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale du Maroc ?",
+    "options": ["Casablanca", "Marrakech", "Rabat", "Fès"],
+    "correctIndex": 2,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel personnage dit 'Vers l'infini et au-delà' ?",
+    "options": ["Woody", "Buzz l'Éclair", "Rex", "Mr. Potato"],
+    "correctIndex": 1,
+    "category": "Disney"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle planète est surnommée la planète rouge ?",
+    "options": ["Vénus", "Jupiter", "Mars", "Saturne"],
+    "correctIndex": 2,
+    "category": "Sciences"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le plus haut sommet du monde ?",
+    "options": ["K2", "Mont Blanc", "Kilimandjaro", "Everest"],
+    "correctIndex": 3,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien de joueurs composent une équipe de basketball sur le terrain ?",
+    "options": ["4", "5", "6", "7"],
+    "correctIndex": 1,
+    "category": "Sport"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel océan borde la côte ouest de la France ?",
+    "options": ["Méditerranée", "Atlantique", "Manche", "Mer du Nord"],
+    "correctIndex": 1,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale du Japon ?",
+    "options": ["Osaka", "Kyoto", "Tokyo", "Hiroshima"],
+    "correctIndex": 2,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel animal est Dumbo ?",
+    "options": ["Un lion", "Un éléphant", "Un cerf", "Un ours"],
+    "correctIndex": 1,
+    "category": "Disney"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien de temps dure un mi-temps au football ?",
+    "options": ["15 minutes", "30 minutes", "45 minutes", "60 minutes"],
+    "correctIndex": 2,
+    "category": "Sport"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la langue la plus parlée dans le monde ?",
+    "options": ["Anglais", "Espagnol", "Mandarin", "Hindi"],
+    "correctIndex": 2,
+    "category": "Culture Générale"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le nom du poisson rouge dans Pinocchio ?",
+    "options": ["Nemo", "Cléo", "Flounder", "Dory"],
+    "correctIndex": 1,
+    "category": "Disney"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale de l'Australie ?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "correctIndex": 2,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien de côtés a un hexagone ?",
+    "options": ["5", "6", "7", "8"],
+    "correctIndex": 1,
+    "category": "Sciences"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Qui a peint 'La Nuit étoilée' ?",
+    "options": ["Claude Monet", "Pablo Picasso", "Vincent van Gogh", "Salvador Dalí"],
+    "correctIndex": 2,
+    "category": "Art"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le plus grand désert du monde ?",
+    "options": ["Sahara", "Gobi", "Antarctique", "Arabie"],
+    "correctIndex": 2,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Dans quel film Kevin est-il oublié par sa famille à Noël ?",
+    "options": ["Le Grinch", "Maman, j'ai raté l'avion", "Le Pôle Express", "Miracle sur la 34e rue"],
+    "correctIndex": 1,
+    "category": "Noël"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le vrai nom de Cendrillon dans la version Disney ?",
+    "options": ["Ella", "Aurora", "Cinderella", "Giselle"],
+    "correctIndex": 0,
+    "category": "Disney"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale de la Grèce ?",
+    "options": ["Sparte", "Athènes", "Thessalonique", "Rhodes"],
+    "correctIndex": 1,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est l'os le plus long du corps humain ?",
+    "options": ["Humérus", "Tibia", "Fémur", "Péroné"],
+    "correctIndex": 2,
+    "category": "Sciences"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel groupe a chanté 'Bohemian Rhapsody' ?",
+    "options": ["The Beatles", "Led Zeppelin", "Queen", "Pink Floyd"],
+    "correctIndex": 2,
+    "category": "Musique"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien de tentacules a une pieuvre ?",
+    "options": ["6", "8", "10", "12"],
+    "correctIndex": 1,
+    "category": "Sciences"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale de la Suisse ?",
+    "options": ["Zurich", "Genève", "Berne", "Lausanne"],
+    "correctIndex": 2,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel super-héros est surnommé 'L'homme araignée' ?",
+    "options": ["Batman", "Spider-Man", "Ant-Man", "Black Panther"],
+    "correctIndex": 1,
+    "category": "Cinéma"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien de points rapporte la lettre Z au Scrabble français ?",
+    "options": ["8", "10", "12", "14"],
+    "correctIndex": 1,
+    "category": "Culture Générale"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le nom du majordome de Batman ?",
+    "options": ["Jarvis", "Alfred", "Edwin", "Winston"],
+    "correctIndex": 1,
+    "category": "Cinéma"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale du Canada ?",
+    "options": ["Toronto", "Montréal", "Vancouver", "Ottawa"],
+    "correctIndex": 3,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel animal est le roi de la jungle dans l'expression populaire ?",
+    "options": ["Tigre", "Éléphant", "Lion", "Gorille"],
+    "correctIndex": 2,
+    "category": "Culture Générale"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien de mois ont 31 jours dans une année ?",
+    "options": ["5", "6", "7", "8"],
+    "correctIndex": 2,
+    "category": "Culture Générale"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Qui a écrit 'Le Petit Prince' ?",
+    "options": ["Victor Hugo", "Jules Verne", "Antoine de Saint-Exupéry", "Albert Camus"],
+    "correctIndex": 2,
+    "category": "Littérature"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale de la Chine ?",
+    "options": ["Shanghai", "Hong Kong", "Pékin", "Canton"],
+    "correctIndex": 2,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel film a remporté le plus d'Oscars de l'histoire ?",
+    "options": ["Titanic", "Ben-Hur", "Le Seigneur des Anneaux", "Tous ex aequo"],
+    "correctIndex": 3,
+    "category": "Cinéma"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien de doigts a un personnage de Simpson ?",
+    "options": ["3", "4", "5", "6"],
+    "correctIndex": 1,
+    "category": "Culture Générale"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le nom du sorcier ennemi de Harry Potter ?",
+    "options": ["Dumbledore", "Voldemort", "Severus Rogue", "Grindelwald"],
+    "correctIndex": 1,
+    "category": "Cinéma"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale de l'Argentine ?",
+    "options": ["Santiago", "Buenos Aires", "Lima", "Montevideo"],
+    "correctIndex": 1,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien de cartes y a-t-il dans un jeu de cartes standard (sans joker) ?",
+    "options": ["48", "50", "52", "54"],
+    "correctIndex": 2,
+    "category": "Culture Générale"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel insecte produit du miel ?",
+    "options": ["Guêpe", "Abeille", "Bourdon", "Frelon"],
+    "correctIndex": 1,
+    "category": "Sciences"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale des Pays-Bas ?",
+    "options": ["Rotterdam", "La Haye", "Amsterdam", "Utrecht"],
+    "correctIndex": 2,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel personnage crie 'C'est pas faux' dans Kaamelott ?",
+    "options": ["Arthur", "Perceval", "Karadoc", "Léodagan"],
+    "correctIndex": 1,
+    "category": "Séries TV"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le nom de l'épée du roi Arthur ?",
+    "options": ["Excalibur", "Durandal", "Joyeuse", "Narsil"],
+    "correctIndex": 0,
+    "category": "Culture Générale"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien de vertèbres cervicales possède l'être humain ?",
+    "options": ["5", "6", "7", "8"],
+    "correctIndex": 2,
+    "category": "Sciences"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale de la Pologne ?",
+    "options": ["Cracovie", "Varsovie", "Gdansk", "Wroclaw"],
+    "correctIndex": 1,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel plat italien est composé de pâtes, œufs, fromage et lardons ?",
+    "options": ["Bolognaise", "Carbonara", "Amatriciana", "Pesto"],
+    "correctIndex": 1,
+    "category": "Gastronomie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la devise de la France ?",
+    "options": ["Unité, Force, Courage", "Liberté, Égalité, Fraternité", "Force, Honneur, Patrie", "Travail, Famille, Patrie"],
+    "correctIndex": 1,
+    "category": "Histoire"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel acteur joue le rôle de Forrest Gump ?",
+    "options": ["Brad Pitt", "Leonardo DiCaprio", "Tom Hanks", "Johnny Depp"],
+    "correctIndex": 2,
+    "category": "Cinéma"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale de la Suède ?",
+    "options": ["Oslo", "Copenhague", "Helsinki", "Stockholm"],
+    "correctIndex": 3,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le symbole chimique de l'or ?",
+    "options": ["Or", "Au", "Ag", "Go"],
+    "correctIndex": 1,
+    "category": "Sciences"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien de saisons y a-t-il dans Game of Thrones ?",
+    "options": ["6", "7", "8", "9"],
+    "correctIndex": 2,
+    "category": "Séries TV"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle équipe de football a remporté la Coupe du Monde 2022 ?",
+    "options": ["France", "Brésil", "Argentine", "Allemagne"],
+    "correctIndex": 2,
+    "category": "Sport"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le vrai prénom de Coluche ?",
+    "options": ["Michel", "Pierre", "Jean", "Jacques"],
+    "correctIndex": 0,
+    "category": "Culture Générale"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale de l'Inde ?",
+    "options": ["Mumbai", "New Delhi", "Calcutta", "Bangalore"],
+    "correctIndex": 1,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le plus petit os du corps humain ?",
+    "options": ["Étrier", "Marteau", "Enclume", "Phalange"],
+    "correctIndex": 0,
+    "category": "Sciences"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel fruit est utilisé pour faire le guacamole ?",
+    "options": ["Tomate", "Avocat", "Poivron", "Concombre"],
+    "correctIndex": 1,
+    "category": "Gastronomie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale de l'Autriche ?",
+    "options": ["Salzbourg", "Graz", "Vienne", "Innsbruck"],
+    "correctIndex": 2,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel dinosaure est connu pour ses bras très courts ?",
+    "options": ["Vélociraptor", "Tricératops", "T-Rex", "Brachiosaure"],
+    "correctIndex": 2,
+    "category": "Sciences"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien de cases y a-t-il sur un échiquier ?",
+    "options": ["36", "49", "64", "81"],
+    "correctIndex": 2,
+    "category": "Culture Générale"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale du Brésil ?",
+    "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+    "correctIndex": 2,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel célèbre personnage de conte dort pendant 100 ans ?",
+    "options": ["Blanche-Neige", "Cendrillon", "La Belle au Bois Dormant", "Raiponce"],
+    "correctIndex": 2,
+    "category": "Disney"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle série met en scène la famille Stark à Winterfell ?",
+    "options": ["The Witcher", "Game of Thrones", "Vikings", "The Last Kingdom"],
+    "correctIndex": 1,
+    "category": "Séries TV"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le nom de la peur des araignées ?",
+    "options": ["Claustrophobie", "Arachnophobie", "Agoraphobie", "Acrophobie"],
+    "correctIndex": 1,
+    "category": "Sciences"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale de la Norvège ?",
+    "options": ["Bergen", "Oslo", "Trondheim", "Stavanger"],
+    "correctIndex": 1,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel rappeur français a chanté 'Validé' ?",
+    "options": ["Booba", "Nekfeu", "PNL", "Jul"],
+    "correctIndex": 0,
+    "category": "Musique"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle boisson est fabriquée à partir de houblon ?",
+    "options": ["Vin", "Whisky", "Bière", "Rhum"],
+    "correctIndex": 2,
+    "category": "Gastronomie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le plus grand pays du monde par superficie ?",
+    "options": ["Canada", "États-Unis", "Chine", "Russie"],
+    "correctIndex": 3,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle planète possède des anneaux visibles ?",
+    "options": ["Jupiter", "Mars", "Saturne", "Uranus"],
+    "correctIndex": 2,
+    "category": "Sciences"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel roi de France a été surnommé le Roi Soleil ?",
+    "options": ["Louis XIII", "Louis XIV", "Louis XV", "Louis XVI"],
+    "correctIndex": 1,
+    "category": "Histoire"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale de la Turquie ?",
+    "options": ["Istanbul", "Ankara", "Izmir", "Antalya"],
+    "correctIndex": 1,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel organe produit l'insuline ?",
+    "options": ["Foie", "Rein", "Pancréas", "Rate"],
+    "correctIndex": 2,
+    "category": "Sciences"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle chaîne de télévision diffuse 'The Voice' en France ?",
+    "options": ["France 2", "M6", "TF1", "W9"],
+    "correctIndex": 2,
+    "category": "Culture Générale"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le nom du chien de Tintin ?",
+    "options": ["Milou", "Rantanplan", "Idéfix", "Pluto"],
+    "correctIndex": 0,
+    "category": "Culture Générale"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale de l'Irlande ?",
+    "options": ["Cork", "Galway", "Dublin", "Belfast"],
+    "correctIndex": 2,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien de saisons y a-t-il dans une année ?",
+    "options": ["2", "3", "4", "5"],
+    "correctIndex": 2,
+    "category": "Culture Générale"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le plus long fleuve de France ?",
+    "options": ["Seine", "Rhône", "Garonne", "Loire"],
+    "correctIndex": 3,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle fête célèbre-t-on le 14 juillet en France ?",
+    "options": ["L'Armistice", "La Fête Nationale", "La Victoire", "La Libération"],
+    "correctIndex": 1,
+    "category": "Histoire"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel est le nom du père de la petite sirène Ariel ?",
+    "options": ["Poséidon", "Neptune", "Triton", "Océanus"],
+    "correctIndex": 2,
+    "category": "Disney"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quelle est la capitale de l'Égypte ?",
+    "options": ["Alexandrie", "Louxor", "Le Caire", "Assouan"],
+    "correctIndex": 2,
+    "category": "Géographie"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Combien de points y a-t-il sur un domino double-six ?",
+    "options": ["10", "11", "12", "13"],
+    "correctIndex": 2,
+    "category": "Culture Générale"
+  },
+  {
+    "type": "QUIZ",
+    "text": "Quel sport pratique Rafael Nadal ?",
+    "options": ["Football", "Basketball", "Tennis", "Golf"],
+    "correctIndex": 2,
+    "category": "Sport"
+  }
+]
