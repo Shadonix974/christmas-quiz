@@ -115,14 +115,12 @@ export function YouTubeAudioPlayer({
   const opts = {
     height: '200',
     width: '356',
-    host: 'https://www.youtube-nocookie.com',
     playerVars: {
       autoplay: 1 as const,
       controls: 0 as const,
       modestbranding: 1 as const,
       rel: 0 as const,
       playsinline: 1 as const,
-      origin: typeof window !== 'undefined' ? window.location.origin : undefined,
     },
   }
 

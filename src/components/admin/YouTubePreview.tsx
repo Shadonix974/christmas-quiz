@@ -122,7 +122,6 @@ export function YouTubePreview({ videoId, startTime = 0, endTime }: YouTubePrevi
   const opts = {
     height: '200',
     width: '356',
-    host: 'https://www.youtube-nocookie.com',
     playerVars: {
       autoplay: 1 as const,
       start: startTime,
@@ -130,7 +129,6 @@ export function YouTubePreview({ videoId, startTime = 0, endTime }: YouTubePrevi
       modestbranding: 1 as const,
       rel: 0 as const,
       playsinline: 1 as const,
-      origin: typeof window !== 'undefined' ? window.location.origin : undefined,
     },
   }
 
