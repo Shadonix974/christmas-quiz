@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      args:
+        NEXT_PUBLIC_PUSHER_KEY: ${PUSHER_KEY}
+        NEXT_PUBLIC_PUSHER_CLUSTER: ${PUSHER_CLUSTER}
+    restart: always
+    ports:
+      - "3000:3000"
+    environment:
+      DATABASE_URL: ${DATABASE_URL}
+      PUSHER_APP_ID: ${PUSHER_APP_ID}
+      PUSHER_KEY: ${PUSHER_KEY}
+      PUSHER_SECRET: ${PUSHER_SECRET}
+      PUSHER_CLUSTER: ${PUSHER_CLUSTER}
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
