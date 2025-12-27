@@ -23,18 +23,29 @@ COPY . .
 RUN ./node_modules/.bin/prisma generate
 RUN npm run build
 
-# Image de production
-FROM base AS runner
+# Image de production (Debian pour OpenSSL)
+FROM node:20-slim AS runner
 WORKDIR /app
 ENV NODE_ENV=production
 
-RUN addgroup --system --gid 1001 nodejs
-RUN adduser --system --uid 1001 nextjs
+# Install OpenSSL for Prisma
+RUN apt-get update && apt-get install -y openssl && rm -rf /var/lib/apt/lists/*
+
+RUN groupadd --system --gid 1001 nodejs
+RUN useradd --system --uid 1001 nextjs
 
 COPY --from=builder /app/public ./public
 COPY --from=builder /app/.next/standalone ./
 COPY --from=builder /app/.next/static ./.next/static
-COPY --from=builder /app/node_modules/.prisma ./node_modules/.prisma
+
+# Regenerate Prisma client for Debian
+COPY --from=deps /app/node_modules ./node_modules
+COPY prisma ./prisma/
+RUN ./node_modules/.bin/prisma generate
+
+# Clean up node_modules except prisma client
+RUN rm -rf node_modules/.bin node_modules/prisma node_modules/@prisma/engines
+RUN mv node_modules/.prisma .prisma-temp && rm -rf node_modules && mkdir node_modules && mv .prisma-temp node_modules/.prisma
 
 USER nextjs
 EXPOSE 3000
