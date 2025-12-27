@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@distube/ytdl-core": "^4.16.12",
-    "@prisma/client": "^5.22.0",
+    "@prisma/client": "5.22.0",
     "clsx": "^2.1.1",
     "framer-motion": "^12.23.26",
     "lucide-react": "^0.562.0",
@@ -35,7 +35,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.1.1",
-    "prisma": "^5.22.0",
+    "prisma": "5.22.0",
     "tailwindcss": "^4",
     "ts-node": "^10.9.2",
     "typescript": "^5"
