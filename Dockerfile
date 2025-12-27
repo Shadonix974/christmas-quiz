@@ -1,55 +1,38 @@
-FROM node:20-alpine AS base
+FROM node:20-slim
 
-# Installer les dépendances
-FROM base AS deps
-RUN apk add --no-cache libc6-compat
 WORKDIR /app
+
+# Install OpenSSL for Prisma
+RUN apt-get update && apt-get install -y openssl && rm -rf /var/lib/apt/lists/*
+
+# Copy package files
 COPY package.json package-lock.json* ./
 COPY prisma ./prisma/
+
+# Install dependencies
 RUN npm ci
 
-# Builder l'application
-FROM base AS builder
-WORKDIR /app
+# Generate Prisma client
+RUN npx prisma generate
 
-# Variables d'env publiques (nécessaires au build)
+# Copy source code
+COPY . .
+
+# Build arguments for public env vars
 ARG NEXT_PUBLIC_PUSHER_KEY
 ARG NEXT_PUBLIC_PUSHER_CLUSTER
 ENV NEXT_PUBLIC_PUSHER_KEY=$NEXT_PUBLIC_PUSHER_KEY
 ENV NEXT_PUBLIC_PUSHER_CLUSTER=$NEXT_PUBLIC_PUSHER_CLUSTER
 
-COPY --from=deps /app/node_modules ./node_modules
-COPY . .
-RUN ./node_modules/.bin/prisma generate
+# Build the app
 RUN npm run build
 
-# Image de production (Debian pour OpenSSL)
-FROM node:20-slim AS runner
-WORKDIR /app
-ENV NODE_ENV=production
-
-# Install OpenSSL for Prisma
-RUN apt-get update && apt-get install -y openssl && rm -rf /var/lib/apt/lists/*
-
-RUN groupadd --system --gid 1001 nodejs
-RUN useradd --system --uid 1001 nextjs
-
-COPY --from=builder /app/public ./public
-COPY --from=builder /app/.next/standalone ./
-COPY --from=builder /app/.next/static ./.next/static
-
-# Regenerate Prisma client for Debian
-COPY --from=deps /app/node_modules ./node_modules
-COPY prisma ./prisma/
-RUN ./node_modules/.bin/prisma generate
-
-# Clean up node_modules except prisma client
-RUN rm -rf node_modules/.bin node_modules/prisma node_modules/@prisma/engines
-RUN mv node_modules/.prisma .prisma-temp && rm -rf node_modules && mkdir node_modules && mv .prisma-temp node_modules/.prisma
-
-USER nextjs
+# Expose port
 EXPOSE 3000
+
+ENV NODE_ENV=production
 ENV PORT=3000
 ENV HOSTNAME="0.0.0.0"
 
-CMD ["node", "server.js"]
+# Start the app
+CMD ["npm", "start"]
